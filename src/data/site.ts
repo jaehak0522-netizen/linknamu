@@ -17,9 +17,9 @@ export type LinkItem = {
 
 // TODO: 아래는 화면 확인용 더미 값. 실제 프로필·링크로 교체할 것
 export const profile: Profile = {
-  name: "김클로",
-  bio: "세계최강 바이브 코더",
-  avatar: "/avatar-placeholder.svg",
+  name: "조재학",
+  bio: "경영지원 : 요즘에는 AI 개발에 관심이 많아요",
+  avatar: "/avatar.png",
 };
 
 export const links: LinkItem[] = [

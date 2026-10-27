@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-white text-neutral-900 dark:bg-neutral-950 dark:text-neutral-100;
-  font-family: var(--font-geist-sans), -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  @apply bg-[#fff8f0] text-stone-800 dark:bg-[#1a1512] dark:text-stone-100;
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  word-break: keep-all;
 }
